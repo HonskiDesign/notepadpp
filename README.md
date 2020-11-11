@@ -14,3 +14,5 @@ In Notepad++:
 
 Your files should automatically revert to this color scheme. If not, you may have to go up to Language and navigate down and select G-Code(or whatever you called it)
 
+## Sample
+![G-Code Sample](/images/sample.png)
