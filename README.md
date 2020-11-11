@@ -6,7 +6,7 @@ Download the G-CODE.xml file.\
 In Notepad++:
 - Click 'Language'
 - Go down to 'User Defined Language'
-- Click 'Import' and navigate to the xml file.
+- Click 'Import' and navigate to the xml file and select it.
 - In the dropdown menu, select G-CODE
 - Add your G-Code file extensions to the 'Ext.' field seperated by a space. 'nc mpf eia gcd txt cam' are already populated.
 - Click 'Save As...'
