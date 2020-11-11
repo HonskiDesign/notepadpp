@@ -2,7 +2,7 @@
 Repo for Notepad++ configuration files
 
 ## How to use the G-CODE stylizer
-Download the G-CODE.xml file.
+Download the G-CODE.xml file.\
 In Notepad++:
 - Click 'Language'
 - Go down to 'User Defined Language'
