@@ -1,5 +1,4 @@
-# notepadpp
-Repo for Notepad++ configuration files
+# G-Code Stylizer For Notepad++
 
 ## How to use the G-CODE stylizer
 Download the G-CODE.xml file.\
