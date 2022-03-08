@@ -58,8 +58,8 @@ If you use this with any other theme, it probably will look like garbage. Of cou
 - Go to Settings -> Style Configurator and set it to Dracula.
 - Click Save & Close
 - Go to Language -> User Defined Language
-- Click 'Import' and navigate to the G-CODE-DARK.xml file and select it.
-- In the dropdown menu, select G-CODE-DRAK
+- Click 'Import' and navigate to the G-CODE-DARK-Dracula.xml file and select it.
+- In the dropdown menu, select G-CODE-DARK-Dracula
 - Add your G-Code file extensions to the 'Ext.' field seperated by a space. 'nc mpf eia gcd txt cam' are already populated.
 - Click 'Save As...'
 - Give it a name like 'G-Code-Dark-Dracula'
